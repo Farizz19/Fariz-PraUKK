@@ -1,4 +1,4 @@
-<p>PRA UJI KOMPETENSI KEJURUAN (UKK) TAHUN PELAJARAN 2023/2024</p>
+<p>PRA UJI KOMPETENSI KEAHLIAN (UKK) TAHUN PELAJARAN 2023/2024</p>
 <p>Kamis, 11 Januari 2024</p>
 <hr>
 <p>Satuan Pendidikan : Sekolah Menengah Kejuruan</p>
