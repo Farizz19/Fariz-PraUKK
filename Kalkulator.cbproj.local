@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/11 08:40:51.000.256,=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/01/11 08:40:52.000.020,=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/01/11 08:44:24.000.590,=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/01/11 08:44:25.000.298,=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/01/11 08:47:58.000.439,=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/01/11 08:47:58.000.587,=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/01/11 08:49:56.000.387,=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/01/11 08:49:57.000.106,=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/01/11 09:19:00.000.922,C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\UKK FARIZ\KalkulatorPCH1.h</Transaction>
+    <Transaction>2024/01/11 09:19:00.000.969,C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\UKK FARIZ\Unit1.dfm</Transaction>
+    <Transaction>2024/01/11 09:19:00.000.969,C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\UKK FARIZ\Unit1.h</Transaction>
+    <Transaction>2024/01/11 09:19:00.000.969,C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\UKK FARIZ\Unit1.cpp</Transaction>
+    <Transaction>2024/01/11 09:19:04.000.453,C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\UKK FARIZ\Kalkulator.cbproj</Transaction>
+    <Transaction>2024/01/11 09:19:13.000.992,C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\UKK FARIZ\Unit1.h=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\UKK FARIZ\KalkulatorUKK.h</Transaction>
+    <Transaction>2024/01/11 09:19:13.000.992,C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\UKK FARIZ\Unit1.dfm=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\UKK FARIZ\KalkulatorUKK.dfm</Transaction>
+    <Transaction>2024/01/11 09:19:13.000.992,C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\UKK FARIZ\Unit1.cpp=C:\Users\tkj 1\Documents\Embarcadero\Studio\Projects\UKK FARIZ\KalkulatorUKK.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
