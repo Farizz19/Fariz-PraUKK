@@ -1,2 +1,3 @@
 PRA UJI KOMPETENSI KEJURUAN 2024
-<p>test</p>
+<p>Nama : Muhammad Fariz Al-Haq</p>
+<p>Kelas : XII</p>
