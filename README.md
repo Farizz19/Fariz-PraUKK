@@ -8,7 +8,7 @@
   <head>
     <title></title>
   </head>
-  <body style="background-color=red">
+  <body style="background-color:red">
     PRA UJI KOMPETENSI KEJURUAN (UKK) TAHUN PELAJARAN 2023/2024 |
 Satuan Pendidikan	: Sekolah Menengah Kejuruan |
 Kompetensi Keahlian : Rekayasa Perangkat Lunak |
