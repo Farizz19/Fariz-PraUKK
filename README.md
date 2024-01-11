@@ -8,3 +8,5 @@ Judul Tugas 		: Aplikasi Kalkulator |
 Nama 	: Muhammad Fariz Al-Haq |
 Kelas 	: XII |
 Jurusan : Rekayasa Perangkat Lunak
+
+(https://myoctocat.com/assets/images/base-octocat.svg)
